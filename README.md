@@ -12,3 +12,6 @@ https://book.douban.com/review/12340698/#comments
 《数据库系统实现》
 https://ocw.mit.edu/courses/6-830-database-systems-fall-2010
 https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/download/
+
+#### leecode:
+https://zhuanlan.zhihu.com/p/96883783

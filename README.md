@@ -15,3 +15,6 @@ https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/download/
 
 #### leecode:
 https://zhuanlan.zhihu.com/p/96883783
+
+#### booklist:
+https://mp.weixin.qq.com/s/9q4_tcvd_mcibjlUGH8C8w

@@ -14,7 +14,8 @@ https://ocw.mit.edu/courses/6-830-database-systems-fall-2010
 https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/download/
 
 #### leecode:
-https://zhuanlan.zhihu.com/p/96883783
+https://zhuanlan.zhihu.com/p/96883783  
+高频leetcode：https://www.algomooc.com/1659.html
 
 #### booklist:
 https://mp.weixin.qq.com/s/9q4_tcvd_mcibjlUGH8C8w

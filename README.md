@@ -19,3 +19,11 @@ https://zhuanlan.zhihu.com/p/96883783  
 
 #### booklist:
 https://mp.weixin.qq.com/s/9q4_tcvd_mcibjlUGH8C8w
+
+[How to become a data scientist in 6 steps](https://www.edx.org/become/how-to-become-a-data-scientist)
+
+
+
+
+
+
